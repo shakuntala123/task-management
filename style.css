@@ -1,0 +1,27 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 600px;
+}
+
+.task-item {
+    padding: 15px;
+    margin: 10px 0;
+    background-color: white;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+}
+
+.task-item h5 {
+    margin-bottom: 10px;
+}
+
+.task-item p {
+    margin-bottom: 5px;
+}
+
+.task-item button {
+    margin-right: 5px;
+}
