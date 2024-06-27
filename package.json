@@ -1,0 +1,18 @@
+{
+  "name": "task-manager-backend",
+  "version": "1.0.0",
+  "description": "A simple task management back-end with CRUD operations",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["task", "management", "backend", "express", "node"],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
